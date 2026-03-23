@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agency AI Website
 
 A modern React + Vite marketing website for a digital agency.
@@ -141,3 +142,6 @@ npm run lint
 
 ## License
 This project is for learning and portfolio/demo use. Add your preferred license before production distribution.
+=======
+# LumenForge
+>>>>>>> f8317fb3855679a3925e6fa7b0a736c66ede6221
